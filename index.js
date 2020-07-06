@@ -1,7 +1,7 @@
 const fs = require("fs")
 const util = require("util")
 const inquirer = require("inquirer")
-const generateMarkdown = require("./utils/generateMarkdown.js")
+const generateMarkdown = require("generateMarkdown.js")
 
 const licenseBadges = ["[![License: BSD](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)", "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)", "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)","![License: See Below](https://img.shields.io/badge/license-other-orange.svg)"]
 

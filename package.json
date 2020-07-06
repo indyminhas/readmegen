@@ -1,14 +1,22 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "hw 5",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "indy",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indyminhas/readmegen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/indyminhas/readmegen/issues"
+  },
+  "homepage": "https://github.com/indyminhas/readmegen#readme"
 }
