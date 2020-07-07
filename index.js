@@ -72,7 +72,7 @@ const writeFileAsync = util.promisify(fs.writeFile)
 
 // function to initialize program
 async function init() {
-    console.log("Let's generate a ReadMe!");
+    console.log("Generate a ReadMe!");
     try {
         const data = await readMePrompts();
         if (data.license === "BSD"){
@@ -91,6 +91,7 @@ async function init() {
         console.log("ReadMe successfully generated.");
     } catch (err) {
         console.log(err);
+
     }   
 }
 
