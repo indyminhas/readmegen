@@ -1,5 +1,5 @@
 # Sample Readme [![License: BSD](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-  Generates a Readme through a prompt from node.js
+  Generates a professional Readme using node.js
   ## Table of Contents
   1. [Installation](#Installation)
   2. [Usage](#Usage)
@@ -10,9 +10,9 @@
   ## Installation
        npm install
   ## Usage
-  It is a quicker way for developers to make a readme to save time
+  Used for everyday developers to make it easier to create a readme
   ## Contributing
-  You can anything that is practical in this sense.
+  Contribute and add practical functions
   ## Tests
        npm test
   ## License
@@ -21,4 +21,4 @@
   * GitHub: [indyminhas](https://github.com/indyminhas)
   * Email: [iminhas@live.com](mailto:iminhas@live.com)
   
-  Emails if questions
+  If questions, please email!
